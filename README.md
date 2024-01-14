@@ -1,4 +1,4 @@
-# LLM_Paper_Reading
+# LLM Paper Reading
 This repo lists some interesting LLM related papers.  
 
 ## LLM Embedding
