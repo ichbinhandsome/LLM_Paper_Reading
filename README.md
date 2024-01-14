@@ -29,3 +29,6 @@ This repo lists some interesting LLM related papers.
 ## LLM Alignment
 * [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/pdf/2309.00267.pdf)
   * Keywords: RL from AI Feedback (RLAIF), Generating AI labels, Self Improvement
+
+## LLM Survey
+
