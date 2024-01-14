@@ -14,6 +14,14 @@ This repo lists some interesting LLM related papers.
 
 
 ## LLM Architectures
+* [Mixtral of Experts](https://arxiv.org/pdf/2401.04088.pdf)
+  * Keywords:  Mixtral 8x7B, Sparse Mixture of Experts (SMoE)
+* [Mistral 7B](https://arxiv.org/pdf/2310.06825.pdf)
+  * Keywords:  Grouped-Query Attention (GQA), Sliding Window Attention (SWA), Rolling Buffer Cache, Pre-fill and Chunking
+* [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
+  * Keywords: Grouped-Query Attention (GQA), Context Length 4k, 2.0T Tokens
+* [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
+  * Keywords: Pre-normalization, SwiGLU activation function, Rotary Positional Embeddings (RoPE), Context Length 2k, 1.0T Tokens
 
 
 ## LLM Agents
