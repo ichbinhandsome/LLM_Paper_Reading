@@ -36,5 +36,6 @@ This repo lists some interesting LLM related papers.
 
 
 ## Blogs
+* RAGAS A framework to evaluate RAG: https://docs.ragas.io/en/stable/
 
 
