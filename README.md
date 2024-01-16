@@ -31,4 +31,10 @@ This repo lists some interesting LLM related papers.
   * Keywords: RL from AI Feedback (RLAIF), Generating AI labels, Self Improvement
 
 ## LLM Survey
+* [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/pdf/2401.01313.pdf)
+  * Keywords: LLM Hallucination, RAG, Knowledge Retrieval, CoNLI, CoVe
+
+
+## Blogs
+
 
