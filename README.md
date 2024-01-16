@@ -10,7 +10,15 @@ This repo lists some interesting LLM related papers.
 ## LLM Prompting
 
 
+## LLM Training
+* [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
+  * Keywords: Low Rank Adapters (LoRA), 4-bit NormalFloat (NF4), Double Quantization, Paged Optimizers
+
 ## LLM Inference
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
+  * Keywords: Self-attention, IO-aware,  GPU high bandwidth memory (HBM), GPU SRAM, Block-Sparse Attention
+* [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180.pdf)
+  * Keywords: KV cache, PagedAttention, Classical Virtual Memory, Paging techniques, vLLM
 
 
 ## LLM Architectures
@@ -33,6 +41,8 @@ This repo lists some interesting LLM related papers.
 ## LLM Survey
 * [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/pdf/2401.01313.pdf)
   * Keywords: LLM Hallucination, RAG, Knowledge Retrieval, CoNLI, CoVe
+* [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+  * Keywords:  PLMs, LLMs, Pre-training, Adaptation tuning, Capacity evaluation
 
 
 ## Blogs
